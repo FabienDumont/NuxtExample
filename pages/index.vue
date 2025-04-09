@@ -1,6 +1,5 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <AppAlert> This is an auto-imported component. </AppAlert>
+  <h1>Home</h1>
 </template>
